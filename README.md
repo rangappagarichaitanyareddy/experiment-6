@@ -78,10 +78,11 @@ Use Sleuth Kit tools to analyze the file system and locate evidence.
 
 - Open the **Command Prompt**.
 - Navigate to the directory where Sleuth Kit is installed.
+<img width="601" height="205" alt="image" src="https://github.com/user-attachments/assets/d46a71c0-38ef-4d94-bff0-b8fbdfc54056" />
 
 Example:
 
 ```cmd
 cd C:\Users\chaithu\Downloads\sleuthkit-4.14.0-win32\sleuthkit-4.14.0-win32\bin
 
-<img width="601" height="205" alt="image" src="https://github.com/user-attachments/assets/e2b62864-5a45-4c7a-816c-a80c58a0b179" />
+
